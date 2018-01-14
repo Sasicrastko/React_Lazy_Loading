@@ -1,0 +1,40 @@
+body {
+  color: #111;
+  background: white;
+  font: 400 14px Arial,sans-serif;
+}
+
+img{
+}
+
+a {
+  color: #222;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+.page {
+  margin: 75px;
+}
+
+.list {
+  margin: 40px 0;
+}
+
+.list-row {
+  display: flex;
+  line-height: 24px;
+  white-space: nowrap;
+  margin: 0px 0;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid #c3c3c3;
+}
+
+
+
+
+
