@@ -6,7 +6,7 @@ This is an app that demonstrates lazy loading in a React app (folder **react-app
 
 In this demo you can see the moment when _bottom of the page reached!_ is printed in browsers console. This is the moment when the React app calls server to gett data for a new set of products to show.
 
-![Demo](/demo/logo.gif)
+![Demo](https://github.com/Sasicrastko/React_Lazy_Loading/blob/master/demo/demo.gif)
 
 Fetching new data function is triggered reaching the botton of the page.
 
