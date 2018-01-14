@@ -1,0 +1,28 @@
+{
+  "name": "lazzy-loading-app-example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "bootstrap": "^4.6.0",
+    "cors": "^2.8.5",
+    "espress": "0.0.0",
+    "express": "^4.17.1",
+    "react-bootstrap": "^1.5.1",
+    "react-star-ratings": "^2.3.0",
+    "request": "^2.88.2",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
